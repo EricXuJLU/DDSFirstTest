@@ -1,0 +1,3 @@
+/Users/xuxinnan/code/C++/DDS/FirstTest/cmake-build-debug/CMakeFiles/FirstTest.dir
+/Users/xuxinnan/code/C++/DDS/FirstTest/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/xuxinnan/code/C++/DDS/FirstTest/cmake-build-debug/CMakeFiles/rebuild_cache.dir
